@@ -2,6 +2,10 @@
 
 ![Missing GPTs](/images/banner.webp)
 
+Lists:
+
+`/Lists`
+
 ## Purpose Statement
 
 In January of this year (barely more than 6 months ago!) OpenAI [launched a custom GPT store](https://openai.com/index/introducing-the-gpt-store/) allowing users to overlay their own configuration parameters and knowledge on top of GPT-4o.
