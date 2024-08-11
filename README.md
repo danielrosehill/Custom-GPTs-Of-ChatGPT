@@ -1,4 +1,4 @@
-# The Missing Custom GPTs of ChatGPT
+# The Invisible Custom GPTs Of The ChatGPT Store
 
 ![Missing GPTs](/images/banner.webp)
 
@@ -8,11 +8,11 @@ In January of this year (barely more than 6 months ago!) OpenAI [launched a cust
 
 Theoretically, anybody can share a custom GPT with the entirety of ChatGPT's userbase. 
 
-In reality, however, only a miniscule percentage of projects (it appears those with commercial relationships to OpenAI) make it to the GPT Store Home, which is currently housed at [chatgpt.com/gpts](https://www.chatgpt.com/gpts)
+In reality, however, only a miniscule percentage of projects (it appears those with commercial relationships to OpenAI) make it to the GPT Store homepage, which is currently housed at [chatgpt.com/gpts](https://www.chatgpt.com/gpts). The others can be retrieved through keyword searches. But many languish in obscrutiy.
 
-How big is the discrepancy? Pretty big!
+How big is the discrepancy between the GPTs spotlighted on the GPT Store homepage and the very long tail of virtually unknown models?
 
-At the time of writing this (18-08-24), OpenAI lists about **84** custom GPTs in its marketplace:
+At the time of writing this (18-08-24), OpenAI lists about **84** custom GPTs in its marketplace spread over 7 main categories (each housing a 'top 12' listing).
 
 ![GPT Store](/images/1.png)
 
@@ -22,7 +22,7 @@ Custom GPTs have a URL pattern matching `chatgpt.com/g/*`.
 
 Running a search for `site:chatgpt.com/g/*` in Google, today, suggests that there are 243,000 results for the URL pattern:
 
-![Google results](/images/2.png)
+![GPTs](/images/2.png)
 
 For argument's sake, let's assume, without any attempts at validation, that this number is accurate and representative of the total number of custom GPTs that have been created on ChatGPT since January. This would equal about **30,000** custom GPTs being created per month or roughly 1,000 per day across ChatGPT's global userbase (the number is not disclosed.)
 
@@ -33,6 +33,8 @@ This would mean that the GPT Store listing represents just **0.035%** of total c
 So what are the invisible **99.9%** of custom GPT users doing?
 
 After programmatic scraping attempts failed, I decided to feed my curiosity the old-fashioned way by trawling, manually, through Google listings. Some fo the GPTs stumbled upon are listed in this repo.
+
+*Note: small list of GPTs presented reflects my own interests!*
 
 
 ## Use Case Statement
